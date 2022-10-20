@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/menu-savvy-website/static/css/main.a187227a.css",
+    "main.js": "/menu-savvy-website/static/js/main.0938047d.js",
+    "index.html": "/menu-savvy-website/index.html",
+    "main.a187227a.css.map": "/menu-savvy-website/static/css/main.a187227a.css.map",
+    "main.0938047d.js.map": "/menu-savvy-website/static/js/main.0938047d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a187227a.css",
+    "static/js/main.0938047d.js"
+  ]
+}
